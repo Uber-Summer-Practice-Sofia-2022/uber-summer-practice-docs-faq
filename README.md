@@ -42,6 +42,8 @@ Code version control system, helps tracking different versions of a codebase. Pr
 
 [More info](https://git-scm.com/docs)
 
+[Introduction to git presentation](https://docs.google.com/presentation/d/1v38YZYRdHgBPWwPz5R8m2GlzUlPNG5Q6yDhcP-sL3Z0/edit?usp=sharing)
+
 ## Postman
 
 Postman is an API client that makes it easy for developers to create, share, test and document APIs. This is done by allowing users to create and save simple and complex HTTP/s requests, as well as read their responses.
