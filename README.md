@@ -29,7 +29,7 @@ Download - Compose comes bundled with [Docker Desktop](https://www.docker.com/pr
 
 ## Python
 
-A high-level, object-orienteted general-purpose language prioritising code readability and ease of use.
+A high-level, object-oriented general-purpose language prioritising code readability and ease of use.
 
 [Learn more](https://opensource.com/resources/python)
 
