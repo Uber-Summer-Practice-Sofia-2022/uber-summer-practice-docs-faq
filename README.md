@@ -9,7 +9,7 @@ Any documentation/FAQ accumulated during Uber Summer Practice editions
   - [Postman](#postman)
 
 - [Useful links](#uber-summer-practice-docs)
-  - [Project requirements](#docs/project.md)
+  - [Project requirements](docs/project.md)
 
 ## Docker
 A tool offering a virtualised environment for running applications independent of underlying operating system level. Applications run in self-contained environments called **containers** and can be easily transferrable/deployable.
