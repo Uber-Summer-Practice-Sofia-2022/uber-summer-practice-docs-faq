@@ -2,7 +2,7 @@
 
 ## Sample architecture
 
-![alt text](../resources/Delivery%20Service.png)
+![alt text](../resources/DeliveryService.png)
 
 - - - -
 ## Order management
@@ -100,7 +100,9 @@
 * Provide restaurant menu details to the order management component
 * Nice to have:
   - Meal-time preparation estimation
-  - Provide an invoice to the courier management system
+  - Provide an invoice to the courier management system - Couriers to request an invoice by providing an order id. Restaurants can fetch order details from order management component. Also, delivery details can be fetched from courier component.
+     - Sample invoice: Order from McDonalds {restaurant name} was delivered by Stan {courier name} on 15.07 {date of delivery}.
+
 ### Backend - Restaurant admin panel
 * Define data structure for the requirements
 * Provide API for the input UI
