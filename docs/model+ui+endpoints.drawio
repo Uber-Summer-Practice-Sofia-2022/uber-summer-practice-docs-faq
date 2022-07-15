@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T11:25:15.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="QQxEF8pbS9U37tpUGx3H" version="20.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-15T11:25:31.394Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="iGRV7fezAEXtaFI34fgi" version="20.1.1" type="github" pages="7">
   <diagram id="zvgnfmTb5LMVVaqTquSj" name="UI (Order management)">
     <mxGraphModel dx="1038" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -348,7 +348,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KZSW3kqBtk0ItYC3ufxN" name="UI (Restaurant mangement)">
-    <mxGraphModel dx="2714" dy="2222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3056" dy="2707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
