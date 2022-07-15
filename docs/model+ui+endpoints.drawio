@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T11:00:48.413Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Ci_Gvj7nBK7rZ6mEhPym" version="20.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-15T11:01:43.649Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="V_BUtC8SHn1fe__7OFXU" version="20.1.1" type="github" pages="7">
   <diagram id="zvgnfmTb5LMVVaqTquSj" name="UI (Order management)">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -276,7 +276,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KZSW3kqBtk0ItYC3ufxN" name="UI (Restaurant mangement)">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -292,11 +292,25 @@
         <mxCell id="0SSm41A4dCBFKplYEaJ2-6" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="160" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="RxEJu3Ee0l7FQXT5X9sd-1" value="Item Name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="460" y="85" width="100" height="35" as="geometry" />
+        </mxCell>
         <mxCell id="0SSm41A4dCBFKplYEaJ2-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Address&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="165" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="RxEJu3Ee0l7FQXT5X9sd-3" value="Category" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="460" y="165" width="90" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="0SSm41A4dCBFKplYEaJ2-8" value="&lt;font color=&quot;#9c9c9c&quot;&gt;text menu&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="160" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RxEJu3Ee0l7FQXT5X9sd-4" value="Dropdown button" style="rounded=1;fillColor=#F1F2F4;strokeColor=none;html=1;fontColor=#596780;align=left;fontSize=12;spacingLeft=10;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="160" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RxEJu3Ee0l7FQXT5X9sd-5" value="" style="shape=triangle;direction=south;fillColor=#596780;strokeColor=none;html=1;sketch=0;" vertex="1" parent="RxEJu3Ee0l7FQXT5X9sd-4">
+          <mxGeometry x="1" y="0.5" width="12" height="6" relative="1" as="geometry">
+            <mxPoint x="-20" y="-3" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0SSm41A4dCBFKplYEaJ2-9" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="240" width="170" height="40" as="geometry" />
@@ -332,7 +346,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QePiwZ5LADWzH_D8YFNF" name="Model (Restaurant mangement)">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
