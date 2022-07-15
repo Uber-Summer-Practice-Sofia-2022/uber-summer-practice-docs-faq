@@ -1,14 +1,77 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T10:48:43.912Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="DWGloLNToHxjskmIJjk6" version="17.4.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-15T10:49:02.871Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="Tvrcj95NGbGZu-27mytp" version="20.1.1" type="github" pages="7">
   <diagram id="zvgnfmTb5LMVVaqTquSj" name="UI (Order management)">
-    <mxGraphModel dx="1040" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1425" dy="1896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eW1gRHI1vux47_rWRTx7-1" value="Pick Restaurant&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eW1gRHI1vux47_rWRTx7-2" value="Select Food items" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eW1gRHI1vux47_rWRTx7-3" value="Select quantity&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eW1gRHI1vux47_rWRTx7-4" value="Add utensils" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460.5" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eW1gRHI1vux47_rWRTx7-5" value="Add additional info&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eW1gRHI1vux47_rWRTx7-6" value="Fill personal info" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eW1gRHI1vux47_rWRTx7-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="eW1gRHI1vux47_rWRTx7-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="135" as="sourcePoint" />
+            <mxPoint x="255" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eW1gRHI1vux47_rWRTx7-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="136" as="sourcePoint" />
+            <mxPoint x="350" y="136" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="136" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eW1gRHI1vux47_rWRTx7-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="415" y="134.5" as="sourcePoint" />
+            <mxPoint x="465" y="134.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="465" y="134.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eW1gRHI1vux47_rWRTx7-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="535" y="134.5" as="sourcePoint" />
+            <mxPoint x="585" y="134.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="585" y="134.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eW1gRHI1vux47_rWRTx7-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="655" y="134.5" as="sourcePoint" />
+            <mxPoint x="705" y="134.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="705" y="134.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="AmAiXFjn46dSHA0xgA7L" name="UI (Courier management)">
-    <mxGraphModel dx="2066" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1425" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +79,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KZSW3kqBtk0ItYC3ufxN" name="UI (Restaurant mangement)">
-    <mxGraphModel dx="1040" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,7 +87,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="w2xkRb0xfeO9UaLq-7dp" name="Model (shared)">
-    <mxGraphModel dx="1040" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1425" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +95,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZzZ6LVq-ztTDesU_OuhQ" name="Model (Order mangement)">
-    <mxGraphModel dx="2066" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1425" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +103,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="S2H16VVU1hZGq0ET43JR" name="Model (Courier management)">
-    <mxGraphModel dx="2066" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1425" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,7 +111,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QePiwZ5LADWzH_D8YFNF" name="Model (Restaurant mangement)">
-    <mxGraphModel dx="1224" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
