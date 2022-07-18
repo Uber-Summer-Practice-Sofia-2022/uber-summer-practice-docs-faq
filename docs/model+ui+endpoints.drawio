@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T06:52:37.233Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="mzlJnx3VZaU12ixugr4r" version="20.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-18T06:57:09.505Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="VFSyGCZVRmQtgLjqVYFi" version="20.1.1" type="github" pages="7">
   <diagram id="zvgnfmTb5LMVVaqTquSj" name="UI (Order management)">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2163" dy="2464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -373,7 +373,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KZSW3kqBtk0ItYC3ufxN" name="UI (Restaurant mangement)">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2611" dy="3344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -513,7 +513,7 @@
           <mxGeometry x="990" y="-1670" width="190" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="yxDN-Or4nZImSNe_QSzG-1" value="Currently there is no intuitive way to simply view&#xa;information for you restaurant. Here is a&#xa;sample structure that would improve this:&#xa;&#xa;1. Main screen that list all restaurants that&#xa;has a &#39;Create restaurant&#39; button at the top.&#xa;&#xa;2. When you click on a restaurant you open&#xa;a details page that lists information for your&#xa;restaurant.&#xa;&#xa;3. The details page has an edit button that&#xa;you can click to edit the current details. " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="-1580" width="240" height="380" as="geometry" />
+          <mxGeometry x="-415" y="-1580" width="330" height="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -804,6 +804,9 @@
         </mxCell>
         <mxCell id="DLRjYs7rSjCbt5aDvvjn-4" value="&amp;gt;=0" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="540" y="105" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NT_tr8akOlyhm1BR50Rm-1" value="&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Cutlery should be BOOLEAN&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Phone Number Should be a &quot;VarChar(20) &quot; Type&lt;/li&gt;&lt;li&gt;Address should be string&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="370" width="690" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
