@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T10:02:30.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="HV3q4NvskFXUCIaxGwfM" version="20.1.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-20T20:33:12.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="zkx5tUTVBVaZOSPziX3P" version="20.1.1" type="github" pages="7">
   <diagram id="zvgnfmTb5LMVVaqTquSj" name="UI (Order management)">
-    <mxGraphModel dx="1209" dy="2901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="2917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1050,7 +1050,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QePiwZ5LADWzH_D8YFNF" name="Model (Restaurant mangement)">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1103,12 +1103,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XkKcTNImTFaMTtuG0l8O-14" value="town &lt;br&gt;address ??" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="210" y="270" width="100" height="60" as="geometry" />
+          <mxGeometry x="300" y="280" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XkKcTNImTFaMTtuG0l8O-15" value="" style="endArrow=none;html=1;rounded=0;fontSize=15;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="XkKcTNImTFaMTtuG0l8O-14" target="XkKcTNImTFaMTtuG0l8O-1" edge="1">
+        <mxCell id="XkKcTNImTFaMTtuG0l8O-15" value="" style="endArrow=none;html=1;rounded=0;fontSize=15;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.87;entryY=1.023;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XkKcTNImTFaMTtuG0l8O-14" target="XkKcTNImTFaMTtuG0l8O-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="310" as="sourcePoint" />
             <mxPoint x="240" y="250" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XkKcTNImTFaMTtuG0l8O-16" value="Menu" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
@@ -1202,12 +1203,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X8hse3Ft7XZ3pbR8rzrG-1" value="Това е опционално с цел оптимизация за ресторантите по градове" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="120" y="414" width="200" height="30" as="geometry" />
+          <mxGeometry x="240" y="414" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X8hse3Ft7XZ3pbR8rzrG-2" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;" parent="1" edge="1">
+        <mxCell id="X8hse3Ft7XZ3pbR8rzrG-2" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;entryX=0.42;entryY=1.037;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="XkKcTNImTFaMTtuG0l8O-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="400" as="sourcePoint" />
-            <mxPoint x="250" y="340" as="targetPoint" />
+            <mxPoint x="310" y="404" as="sourcePoint" />
+            <mxPoint x="360" y="344" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X8hse3Ft7XZ3pbR8rzrG-3" value="Опционално" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
@@ -1230,6 +1231,15 @@
         </mxCell>
         <mxCell id="Tlhf7M66tJK9z4Suiwq3-4" value="&amp;gt;=0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="725" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K4zLr5e3LoW2uWaNPXjd-1" value="name" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="180" y="310" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K4zLr5e3LoW2uWaNPXjd-2" value="" style="endArrow=none;html=1;rounded=0;fontSize=15;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="XkKcTNImTFaMTtuG0l8O-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="233.32999999999998" y="310" as="sourcePoint" />
+            <mxPoint x="286.66333333333324" y="250" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
