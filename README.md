@@ -18,6 +18,7 @@ Data models and UI use cases: https://app.diagrams.net/#HUber-Summer-Practice-So
 
 Endpoints specification: https://docs.google.com/document/d/103SuPZ1dpdA-l3d21lK0tvoyq3pjVW36-ubgDnUY9MA/edit?usp=sharing
 
+[Frontend presentation](https://github.com/Uber-Summer-Practice-Sofia-2022/uber-summer-practice-docs-faq/blob/main/resources/Intro%20to%20modern%20frontends%202022.pdf)
 
 ## Technologies
 ### Docker
